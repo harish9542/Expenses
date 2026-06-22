@@ -31,7 +31,7 @@ JWT_SECRET=<a-strong-secret>
 ```bash
 PORT=5000 npm start
 # or for development
-npm run dev  # if you add a dev script for nodemon
+npm run dev  # uses nodemon for development
 ```
 
 ## API endpoints
@@ -78,3 +78,7 @@ Harish Babu — harishbabu.jobs@gmail.com
 ---
 
 This README was added to the repository so you can showcase the project in your portfolio. Feel free to ask me to expand the README with setup screenshots, deploy steps, or a live demo link.
+
+Demo site
+---------
+A minimal demo page is available under the `docs/` folder which can be published via GitHub Pages (Settings → Pages → Source: main / docs folder).
